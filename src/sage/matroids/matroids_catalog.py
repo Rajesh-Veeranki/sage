@@ -71,3 +71,4 @@ To create a custom matroid using a variety of inputs, see the function
 # user-accessible:
 from sage.matroids.catalog import AG, CompleteGraphic, PG, Uniform, Wheel, Whirl
 from sage.matroids import named_matroids
+from sage.matroids import constructions
